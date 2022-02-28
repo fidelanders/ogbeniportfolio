@@ -29,7 +29,7 @@ function Home() {
                 <li className="nav__items mx__15">Services</li>
               </a>
               <a href="#Portfolio">
-                <li className="nav__items mx__15">Portfolio</li>
+                <li className="nav__items mx__15">Projects</li>
               </a>
               <a href="#Blog">
                 <li className="nav__items mx__15">Blog</li>
@@ -86,9 +86,9 @@ function Home() {
             <div className="home__meta">
               <h1 className="home__text pz__10">WELCOME TO MY WORLD</h1>
               <h2 className="home__text pz__10">Hi, I’m Fidelis Ogbeni</h2>
-              <h4 className="home__text sweet pz__10">Fullstack Developer,</h4>
-              <h4 className="home__text sweet pz__10">Quality Assurance Tester</h4>
-              <h4 className="home__text sweet pz__10">and Graphic Designer</h4>
+              <h3 className="home__text sweet pz__10">Fullstack Developer,</h3>
+              <h3 className="home__text sweet pz__10">Quality Assurance Tester</h3>
+              <h3 className="home__text sweet pz__10">and Graphic Designer</h3>
               <h5 className="home__text pz__10">based in Lagos, Nigeria</h5>
             </div>
           </div>

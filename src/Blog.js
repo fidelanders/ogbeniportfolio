@@ -59,14 +59,15 @@ function Blog() {
                          <div className="mask__effect"></div>
                      </div>
                       <div className="Blog__meta absolute">
-                         <h5 className="project__text">Development</h5>
-                         <h4 className="project__text">Getting tickets to the big show</h4>
+                         <h5 className="project__text">Graphic Designs</h5>
+                         <h4 className="project__text">Going from beginner to Pro</h4>
                          <a href="#" className="blog project__btn btn">Read More</a>
                        </div>
                  </div>
               </div>
 
           </div>
+          
       </div>
     </div>
   );
